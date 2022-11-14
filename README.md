@@ -4,6 +4,8 @@ Random assortment of dev config information
 ## install oh-my-zsh
 Follow instructions on https://ohmyz.sh/
 
+`cd /.oh-my-zsh/themes`
+
 Put my.zsh-theme into the themes folder and set as default
 
 ## Choose color theme
