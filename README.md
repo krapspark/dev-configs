@@ -8,6 +8,8 @@ Follow instructions on https://ohmyz.sh/
 
 Put my.zsh-theme into the themes folder and set as default
 
+In order to enable a theme, set ZSH_THEME to the name of the theme in your ~/.zshrc, before sourcing Oh My Zsh; for example: ZSH_THEME=robbyrussell If you do not want any theme enabled, just set ZSH_THEME to blank: ZSH_THEME=""
+
 ## Choose color theme
 I like chalk from the terminal repo
 https://github.com/lysyi3m/macos-terminal-themes
